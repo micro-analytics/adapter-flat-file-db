@@ -2,6 +2,8 @@
 
 Use [`flat-file-db`](https://github.com/mafintosh/flat-file-db) to store your [`micro-analytics`](https://github.com/mxstbr/micro-analytics) data!
 
+## ⚠️  This package is now moved into the [main micro-analytics repository](https://github.com/micro-analytics/micro-analytics-cli)
+
 ## Usage
 
 **This is the default adapter for `micro-analytics`**, to use it simply start it without any arguments:
